@@ -1,3 +1,0 @@
-= redmine_longer_core_fields
-
-Description goes here
