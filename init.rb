@@ -9,4 +9,5 @@ end
 
 Rails.application.config.to_prepare do
   require_dependency 'redmine_longer_core_fields/issue_status_patch'
+  require_dependency 'redmine_longer_core_fields/application_helper_patch'
 end
